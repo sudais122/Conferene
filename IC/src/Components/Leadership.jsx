@@ -3,21 +3,21 @@ import React from 'react'
 
 const leaders = [
   {
-    image: '/public/Prof.-Dr.-Jamil-Ahmad.webp',
+    image: '/Prof.-Dr.-Jamil-Ahmad.webp',
     role: 'Conference President',
     name: 'Professor Dr. Jamil Ahmad',
     position: 'Vice Chancellor',
     institution: 'Abdul Wali Khan University Mardan',
   },
   {
-    image: '/public/zahir shah.jpeg',
+    image: '/zahir shah.jpeg',
     role: 'Conference Vice President',
     name: 'Professor Dr. Zahir Shah',
     position: 'Dean Faculty of Social Sciences',
     institution: 'Abdul Wali Khan University Mardan',
   },
   {
-    image: '/public/farooq.jpeg',
+    image: '/farooq.jpeg',
     role: 'Conference Secretary',
     name: 'Dr. Farooq Hussain',
     position: 'Chairman, Department of Rehabilitation',
