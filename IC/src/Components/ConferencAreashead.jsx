@@ -3,7 +3,7 @@ import React from 'react'
 
 const ConferencAreashead = () => {
   return (
-    <div className="w-full text-left pl-30 pt-20">
+    <div className="w-full text-left pl-30 pt-20cd ">
       <p className="text-sm font-bold uppercase tracking-[0.15em] text-[#008A5E] sm:text-base">
         Academic focus
       </p>

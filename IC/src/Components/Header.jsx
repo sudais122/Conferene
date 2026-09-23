@@ -7,7 +7,7 @@ const Header = () => {
         <div className="flex items-center gap-3 sm:gap-4">
           <div className="flex h-12 w-12 shrink-0 items-center justify-center overflow-hidden rounded-md bg-white sm:h-14 sm:w-14">
             <img
-              src="../../public/AWKUM-Logo.png"
+              src="/AWKUM-Logo.png"
               alt="Abdul Wali Khan University Mardan logo"
               className="h-full w-full object-contain"
             />
