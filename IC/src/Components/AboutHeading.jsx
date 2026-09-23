@@ -17,8 +17,6 @@ const AboutHeading = () => {
         </span>
       </h1>
 
-      {/* Decorative line */}
-      <div className="mt-6 h-1 w-14 rounded-full bg-[#00895D]" />
     </div>
   )
 }

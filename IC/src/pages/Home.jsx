@@ -1,4 +1,3 @@
-
 import React from 'react'
 
 import Hometext from '../Components/Hometext'
@@ -8,13 +7,12 @@ const Home = () => {
   return (
     <section
       id="home"
-      className="relative min-h-[680px] w-full bg-[#003C69] sm:min-h-[720px] lg:min-h-[760px]"
+      className="relative min-h-[680px] w-full bg-[#003C69] pb-28 sm:min-h-[720px] sm:pb-24 lg:min-h-[760px] lg:pb-20"
     >
-
       {/* Background Image */}
       <div className="absolute inset-0">
         <img
-          src="/images/conference.jpg"
+          src="../../public/HeroIMage.png"
           alt="International Conference"
           className="h-full w-full object-cover"
         />
@@ -35,7 +33,6 @@ const Home = () => {
 
       {/* Floating Countdown */}
       <CountDown />
-
     </section>
   )
 }

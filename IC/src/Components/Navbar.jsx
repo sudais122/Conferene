@@ -15,12 +15,17 @@ const Navbar = () => {
 
   return (
     <nav className="w-full border-b border-[#DCE8E8] bg-[#FDFEFE]">
+
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 sm:px-6 md:px-10">
 
         {/* Conference Title */}
-        <h1 className="max-w-[240px] text-sm font-bold leading-tight text-[#003B68] sm:max-w-sm sm:text-base md:text-lg">
+        <a
+          href="#home"
+          onClick={() => setIsOpen(false)}
+          className="max-w-[240px] text-sm font-bold leading-tight text-[#003B68] sm:max-w-sm sm:text-base md:text-lg"
+        >
           1st International Conference on Health & Sports Sciences
-        </h1>
+        </a>
 
         {/* Desktop Navigation */}
         <ul className="hidden items-center gap-5 lg:flex">
@@ -45,7 +50,6 @@ const Navbar = () => {
           aria-expanded={isOpen}
         >
           {isOpen ? (
-            // X icon
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
@@ -61,7 +65,6 @@ const Navbar = () => {
               />
             </svg>
           ) : (
-            // Hamburger icon
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
@@ -98,6 +101,7 @@ const Navbar = () => {
           </ul>
         </div>
       )}
+
     </nav>
   )
 }
