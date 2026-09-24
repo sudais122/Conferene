@@ -1,12 +1,10 @@
-
-import React from 'react'
-import { FaRegCalendarAlt } from 'react-icons/fa'
-import { IoLocationOutline } from 'react-icons/io5'
+import React from "react";
+import { FaRegCalendarAlt } from "react-icons/fa";
+import { IoLocationOutline } from "react-icons/io5";
 
 const Hometext = () => {
   return (
     <div className="flex max-w-4xl flex-col gap-5">
-
       {/* University */}
       <p className="text-sm font-semibold tracking-wide text-[#00895D] sm:text-base">
         Abdul Wali Khan University Mardan presents
@@ -14,8 +12,8 @@ const Hometext = () => {
 
       {/* Main Heading */}
       <h1 className="max-w-4xl text-3xl font-bold leading-[1.15] text-white sm:text-4xl md:text-5xl lg:text-6xl">
-        1st International Conference on Health, Nutrition, Mental Well-Being
-        &amp; Sports Sciences
+        1st International Conference on Health, Nutrition, Mental Well-Being &
+        Sports Sciences
       </h1>
 
       {/* Subtitle with vertical white accent */}
@@ -29,7 +27,6 @@ const Hometext = () => {
 
       {/* Conference Information */}
       <div className="mt-2 flex flex-col gap-3 text-white sm:flex-row sm:items-center sm:gap-8">
-
         {/* Date */}
         <div className="flex items-center gap-3">
           <FaRegCalendarAlt className="shrink-0 text-lg text-[#00895D] sm:text-xl" />
@@ -47,10 +44,9 @@ const Hometext = () => {
             Abdul Wali Khan University Mardan
           </p>
         </div>
-
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Hometext
+export default Hometext;

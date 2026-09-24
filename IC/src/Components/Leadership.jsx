@@ -20,7 +20,7 @@ const leaders = [
     image: '/farooq.jpeg',
     role: 'Conference Secretary',
     name: 'Dr. Farooq Hussain',
-    position: 'Chairman, Department of Rehabilitation',
+    position: 'Chairman, Department of Rehabilitation and sports sciences',
     institution: 'Abdul Wali Khan University Mardan',
   },
 ]

@@ -12,7 +12,7 @@ const contactDetails = [
   {
     icon: MdEmail,
     title: "Email",
-    value: "Farooqhussain@awkum.edu.pk",
+    value: "farooqhussain@awkum.edu.pk",
     href: "mailto:Farooqhussain@awkum.edu.pk",
   },
   {

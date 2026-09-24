@@ -24,7 +24,7 @@ const Navbar = () => {
           onClick={() => setIsOpen(false)}
           className="max-w-[240px] text-sm font-bold leading-tight text-[#003B68] sm:max-w-sm sm:text-base md:text-lg"
         >
-          1st International Conference on Health & Sports Sciences
+          1st International Conference on Health, Nutrition, Mental Well-Being & Sports Sciences
         </a>
 
         {/* Desktop Navigation */}

@@ -13,9 +13,7 @@ const Footer = () => {
           {/* Conference */}
           <div className="sm:col-span-2 lg:col-span-1">
             <h2 className="max-w-md text-lg font-bold leading-snug sm:text-xl">
-              1st International Conference on Health &amp;{" "}
-              <br className="hidden sm:block" />
-              Sports Sciences
+1st International Conference on Health, Nutrition, Mental Well-Being & Sports Sciences
             </h2>
 
             <p className="mt-4 text-sm text-[#9fb3c8]">
@@ -90,17 +88,6 @@ const Footer = () => {
             © 2027 1st International Conference on Health &amp; Sports Sciences.
             Abdul Wali Khan University Mardan.
           </p>
-
-          <a
-            href="#top"
-            className="group flex w-fit items-center gap-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[#c3d2e0] transition-colors hover:text-white"
-          >
-            Back to top
-
-            <span className="flex h-6 w-6 items-center justify-center rounded-full border border-white/15 transition-all group-hover:border-[#008A5E] group-hover:bg-[#008A5E]">
-              <MdArrowUpward className="h-3 w-3" />
-            </span>
-          </a>
 
         </div>
       </div>
