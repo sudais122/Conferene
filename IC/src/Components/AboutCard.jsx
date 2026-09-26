@@ -1,29 +1,26 @@
-
-import React from 'react'
+import React from "react";
 
 const pillars = [
   {
-    title: 'Sports',
-    image: '/Card1.png',
-    alt: 'People participating in sports and physical activity',
-    description:
-      'Physical activity, movement, exercise, and active lifestyles.',
+    title: "Sports",
+    image: "/Card1.jpeg",
+    alt: "People participating in sports and physical activity",
+    description: "Physical activity, movement, exercise and active lifestyles.",
   },
   {
-    title: 'Nutrition',
-    image: '/Card2.png',
-    alt: 'People preparing a balanced meal with fresh vegetables and grains',
-    description:
-      'Healthy food, balanced nutrition, and healthy living.',
+    title: "Nutrition",
+    image: "/Card3.jpeg",
+    alt: "People preparing a balanced meal with fresh vegetables and grains",
+    description: "Healthy food, balanced nutrition and healthy living.",
   },
   {
-    title: 'Mental Health',
-    image: '/Card3.png',
-    alt: 'A diverse group practicing mindfulness together outdoors',
+    title: "Mental Health",
+    image: "/Card2.jpeg",
+    alt: "A diverse group practicing mindfulness together outdoors",
     description:
-      'Mental well-being, mindfulness, balance, and psychological health.',
+      "Mental well-being, mindfulness, balance and psychological health.",
   },
-]
+];
 
 const AboutCard = () => {
   return (
@@ -60,7 +57,7 @@ const AboutCard = () => {
         </article>
       ))}
     </div>
-  )
-}
+  );
+};
 
-export default AboutCard
+export default AboutCard;
