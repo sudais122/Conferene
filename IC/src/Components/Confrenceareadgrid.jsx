@@ -3,6 +3,8 @@ import React from "react";
 
 import { CgGym } from "react-icons/cg";
 import { CiApple } from "react-icons/ci";
+import { FaPersonRunning } from "react-icons/fa6";
+
 import {
   LuBrain,
   LuUsers,
@@ -11,6 +13,7 @@ import {
   LuMessageCircle,
   LuBookOpen,
 } from "react-icons/lu";
+
 const conferenceAreas = [
   {
     title: "Physical Activity, Health and Well-Being",
@@ -22,7 +25,7 @@ const conferenceAreas = [
   },
   {
     title: "Lifestyle-Related Diseases, Aging and Active Living",
-    icon: LuBrain,
+    icon: FaPersonRunning,
   },
   {
     title: "Public Health and Community Development",
