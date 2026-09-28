@@ -18,8 +18,8 @@ const contactDetails = [
   {
     icon: MdPhone,
     title: "Phone",
-    value: "+92 333 9192912",
-    href: "tel:+923339192912",
+    value: "+92 333 9192912,+92 340 9475787",
+    href: "tel:+923339192912, +92 340 9475787",
   },
   {
     icon: MdLocationOn,
