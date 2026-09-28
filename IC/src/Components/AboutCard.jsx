@@ -9,13 +9,13 @@ const pillars = [
   },
   {
     title: "Nutrition",
-    image: "/Card3.jpeg",
+    image: "/Card2.jpeg",
     alt: "People preparing a balanced meal with fresh vegetables and grains",
     description: "Healthy food, balanced nutrition and healthy living.",
   },
   {
     title: "Mental Health",
-    image: "/Card2.jpeg",
+    image: "/Card3.jpeg",
     alt: "A diverse group practicing mindfulness together outdoors",
     description:
       "Mental well-being, mindfulness, balance and psychological health.",
