@@ -1,7 +1,7 @@
 import React from 'react'
 import { MdArrowUpward } from 'react-icons/md'
 
-import Header from './Components/header'
+import Header from './Components/Header'
 import Navbar from './Components/Navbar'
 import Home from './pages/Home'
 import About from './pages/About'
