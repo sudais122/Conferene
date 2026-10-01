@@ -1,7 +1,7 @@
 
 import React, { useEffect, useState } from 'react'
 
-const TARGET_DATE = '2027-03-16T00:00:00+05:00'
+const TARGET_DATE = '2027-03-24T00:00:00+05:00'
 
 const CountDown = () => {
   const calculateTimeLeft = () => {

@@ -19,7 +19,7 @@ const milestones = [
   {
     label: "Milestone 4",
     title: "Conference",
-    date: "16th & 17th March 2027",
+    date: "24th & 25th March 2027",
   },
 ];
 
