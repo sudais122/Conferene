@@ -21,7 +21,7 @@ const Footer = () => {
             </p>
 
             <p className="mt-6 text-xs font-bold text-white sm:text-sm">
-              16th &amp; 17th March 2027 · Abdul Wali Khan University Mardan
+              24th &amp; 25th March 2027 · Abdul Wali Khan University Mardan
             </p>
           </div>
 

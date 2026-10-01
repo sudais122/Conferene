@@ -63,7 +63,7 @@ const CountDown = () => {
             </p>
 
             <p className="mt-2 max-w-xs text-sm font-semibold leading-relaxed text-white sm:text-base">
-              16 March 2027 · Pakistan Standard Time
+              24 March 2027 · Pakistan Standard Time
             </p>
 
           </div>

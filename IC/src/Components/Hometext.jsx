@@ -32,7 +32,7 @@ const Hometext = () => {
           <FaRegCalendarAlt className="shrink-0 text-lg text-[#00895D] sm:text-xl" />
 
           <p className="text-sm font-medium sm:text-base">
-            16th &amp; 17th March 2027
+            24th &amp; 25th March 2027
           </p>
         </div>
 

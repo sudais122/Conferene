@@ -30,7 +30,7 @@ const contactDetails = [
   {
     icon: MdAccessTime,
     title: "Conference Dates",
-    value: "16 & 17 March 2027",
+    value: "24 & 25 March 2027",
     href: "#dates",
   },
 ];
